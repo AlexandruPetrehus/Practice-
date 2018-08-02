@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8572" started-at="2018-08-02T13:15:50Z" finished-at="2018-08-02T13:15:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8572" started-at="2018-08-02T13:15:50Z" finished-at="2018-08-02T13:15:58Z">
+      <class name="Practice.Alex.Tab3ConnectionTest">
+        <test-method status="PASS" signature="initalizare()[pri:0, instance:Practice.Alex.Tab3ConnectionTest@1753acfe]" name="initalizare" is-config="true" duration-ms="3616" started-at="2018-08-02T16:15:50Z" finished-at="2018-08-02T16:15:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalizare -->
+        <test-method status="PASS" signature="tab3()[pri:0, instance:Practice.Alex.Tab3ConnectionTest@1753acfe]" name="tab3" duration-ms="4297" started-at="2018-08-02T16:15:53Z" finished-at="2018-08-02T16:15:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tab3 -->
+        <test-method status="PASS" signature="inchidere()[pri:0, instance:Practice.Alex.Tab3ConnectionTest@1753acfe]" name="inchidere" is-config="true" duration-ms="658" started-at="2018-08-02T16:15:58Z" finished-at="2018-08-02T16:15:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inchidere -->
+      </class> <!-- Practice.Alex.Tab3ConnectionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
